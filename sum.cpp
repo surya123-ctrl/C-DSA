@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
     int a=7,b=9;
-    cout<<a+b<<endl;
+    cout << "The sum is "<< a+b << endl;
     return 0;
 }
